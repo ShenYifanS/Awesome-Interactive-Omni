@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h3><a href="survey/survey.pdf">Towards Native Real-Time Interactive Omni Intelligence</a></h3>
+<h3><a href="survey/survey.pdf">Native Real-Time Interactive Omni Intelligence: A Unified Framework</a></h3>
 
 Yifan Shen<sup>1,∗</sup>, Zhuoqing Zhong<sup>2,∗</sup>, Xinzhuo Li<sup>1,∗</sup>, Jiateng Liu<sup>1,∗</sup>, Bingxuan Li<sup>1,∗</sup>, Wei Cao<sup>1,∗</sup>,<br>
 Pei Tian<sup>3</sup>, Lin Zhu<sup>1</sup>, Jian Xu<sup>1</sup>, Zewei Chen<sup>1</sup>, Tianjiao Yu<sup>1</sup>, Haichao Zhang<sup>4</sup>, Jiawen Zhang<sup>1</sup>,<br>
