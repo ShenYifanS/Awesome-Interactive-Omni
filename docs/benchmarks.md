@@ -64,8 +64,11 @@ Measure causal audiovisual understanding and whether a system chooses an appropr
 
 Use content-focused evaluations as capability controls; static accuracy does not establish full-duplex interaction.
 
+SocialOmni provides offline, query-time-bounded diagnostics of speaker identification, turn-entry decisions and response generation in multi-party audiovisual dialogue. It does not measure persistent streaming state or wall-clock latency.
+
 | Paper | Venue | Resources |
 | --- | --- | --- |
+| [SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models](https://arxiv.org/abs/2603.16859) | arXiv 2026 | [Code](https://github.com/MAC-AutoML/SocialOmni) · [Dataset](https://huggingface.co/datasets/alexisty/SocialOmni) |
 | [Audio MultiChallenge: A multi-turn evaluation of spoken dialogue systems on natural human interaction](https://aclanthology.org/2026.acl-long.1654/) | ACL 2026 | [Dataset](https://huggingface.co/datasets/ScaleAI/audiomc) · [Ref 96](bibliography.md#ref-096) |
 | [Evaluating cognitive age alignment in interactive AI agents](https://arxiv.org/abs/2605.17894) | arXiv 2026 | [Code](https://github.com/PediaMedAI/ChildAgentEval) · [Ref 242](bibliography.md#ref-242) |
 | [From text to voice: A reproducible and verifiable framework for evaluating tool calling LLM agents](https://arxiv.org/abs/2605.15104) | arXiv 2026 | [Ref 144](bibliography.md#ref-144) |
