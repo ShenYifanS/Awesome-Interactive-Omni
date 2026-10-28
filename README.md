@@ -151,6 +151,7 @@ Streaming recognition, language reasoning and synthesis may be separately traine
 
 | Paper | Venue | Code |
 | --- | :---: | :---: |
+| [Training-Free Multimodal Large Language Model Orchestration](https://proceedings.mlr.press/v306/xie26t.html) | ICML 2026 | [Code](https://github.com/MAC-AutoML/Trainingfree-LLM-Orchestration) |
 | [CrossOracle: An agentic framework for real-time expert personas with parallelized acoustic synthesis](https://aclanthology.org/2026.sigdial-1.18/) | SIGDIAL 2026 | — |
 | [UAF: A unified audio front-end LLM for full-duplex speech interaction](https://arxiv.org/abs/2604.19221) | arXiv 2026 | — |
 | [ChipChat: Low-latency cascaded conversational agent in MLX](https://machinelearning.apple.com/research/chipchat) | ASRU 2025 | — |
@@ -685,6 +686,7 @@ Use content-focused evaluations as capability controls; static accuracy does not
 
 | Paper | Venue | Code |
 | --- | :---: | :---: |
+| [SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models](https://arxiv.org/abs/2603.16859) | arXiv 2026 | [Code](https://github.com/MAC-AutoML/SocialOmni) |
 | [Audio MultiChallenge: A multi-turn evaluation of spoken dialogue systems on natural human interaction](https://aclanthology.org/2026.acl-long.1654/) | ACL 2026 | [Dataset](https://huggingface.co/datasets/ScaleAI/audiomc) |
 | [Evaluating cognitive age alignment in interactive AI agents](https://arxiv.org/abs/2605.17894) | arXiv 2026 | [Code](https://github.com/PediaMedAI/ChildAgentEval) |
 | [From text to voice: A reproducible and verifiable framework for evaluating tool calling LLM agents](https://arxiv.org/abs/2605.15104) | arXiv 2026 | — |

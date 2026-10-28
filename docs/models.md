@@ -64,8 +64,11 @@ Paired or synchronized streams expose silence, overlap and speaking/listening de
 
 Streaming recognition, language reasoning and synthesis may be separately trained, with timing managed by orchestration.
 
+LLM Orchestration combines off-the-shelf modality experts without additional gradient-based training for integration, using an LLM controller, text-centric cross-modal memory and an interaction layer supporting full-duplex streaming and interruption-aware dialogue.
+
 | Paper | Venue | Resources |
 | --- | --- | --- |
+| [Training-Free Multimodal Large Language Model Orchestration](https://proceedings.mlr.press/v306/xie26t.html) | ICML 2026 | [Code](https://github.com/MAC-AutoML/Trainingfree-LLM-Orchestration) |
 | [CrossOracle: An agentic framework for real-time expert personas with parallelized acoustic synthesis](https://aclanthology.org/2026.sigdial-1.18/) | SIGDIAL 2026 | [Ref 247](bibliography.md#ref-247) |
 | [UAF: A unified audio front-end LLM for full-duplex speech interaction](https://arxiv.org/abs/2604.19221) | arXiv 2026 | [Ref 155](bibliography.md#ref-155) |
 | [ChipChat: Low-latency cascaded conversational agent in MLX](https://machinelearning.apple.com/research/chipchat) | ASRU 2025 | [Ref 160](bibliography.md#ref-160) |
